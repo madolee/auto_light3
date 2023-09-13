@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">auto_light3</string>
+    <string name="on_button">On_Button</string>
+    <string name="torch_off">torch_off</string>
+</resources>
